@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+recargasec.com	TRUE	/	FALSE	1999999999	PHPSESSID	7bd9e4d88a8ef991072e9501bfbee7f2
+.codigoesports.com	TRUE	/	FALSE	1999999999	__cfduid	d219daed2220f5b544d132b3d540c4d461614785039
+codigoesports.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

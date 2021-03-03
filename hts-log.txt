@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 03 Mar 2021 10:23:19 at https://recargasec.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://recargasec.com/ -O1 "C:\My Web Sites\recargasec" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:24:08	Error: 	"Not Found" (404) at link https://recargasec.com/tarjetas-nintendo-ecuador/19/recargasec.com/mispedidos (from https://recargasec.com/tarjetas-nintendo-ecuador/19/pages)
+10:24:08	Error: 	"Not Found" (404) at link https://recargasec.com/unknown-cash-pubg-mobile/20/core/views/templates/recargasec/resources/img/contenidos/pubg-id.png (from https://recargasec.com/unknown-cash-pubg-mobile/20/pages)
+
+HTTrack Website Copier/3.49-2 mirror complete in 50 seconds : 120 links scanned, 117 files written (10319756 bytes overall) [9872797 bytes received at 197455 bytes/sec], 815226 bytes transferred using HTTP compression in 34 files, ratio 38%, 15.0 requests per connection
+(2 errors, 0 warnings, 0 messages)
